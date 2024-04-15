@@ -3,7 +3,7 @@ package santhosh.Java;
 public class StringReverse {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String a = "Chennai Super Kings";
 		String rev = "";
 		for (int i = a.length() - 1; i >= 0; i--) {
@@ -11,5 +11,6 @@ public class StringReverse {
 		}
 		
 		System.out.println(rev);
+		
 	}
 }
