@@ -14,7 +14,6 @@ public class AmstrongNumber {
 			d = d / 10;
 		}
 		System.out.println(c);
-
 	}
 
 }
