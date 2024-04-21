@@ -12,6 +12,7 @@ public class AmstrongNumber {
 			b = d % 10;
 			c = (b * b * b) + c;
 			d = d / 10;
+
 		}
 		System.out.println(c);
 
