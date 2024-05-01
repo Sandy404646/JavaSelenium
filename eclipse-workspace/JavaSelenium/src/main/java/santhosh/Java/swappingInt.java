@@ -28,6 +28,7 @@ public class swappingInt {
 		System.out.println("======After Swapping======");
 		System.out.println(c);
 		System.out.println(d);
+		
 	}
 
 }
